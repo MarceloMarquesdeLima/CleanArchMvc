@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CleanArchMvcApplication/CleanArchMvcApplication.csproj" />
+  <Project Path="CleanArchMvcDomain/CleanArchMvcDomain.csproj" />
+  <Project Path="CleanArchMvcInfraData/CleanArchMvcInfraData.csproj" />
+  <Project Path="CleanArchMvcInfraIoC/CleanArchMvcInfraIoC.csproj" />
+  <Project Path="CleanArchMvcWebUI/CleanArchMvcWebUI.csproj" />
+</Solution>
